@@ -1,0 +1,15 @@
+{
+  "name": "tchelinux",
+  "version": "1.0.0",
+  "description": "Evento Tchê Linux Pelotas 2015 - Workshop JS Full Stack",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrício Matté",
+  "license": "ISC"
+}

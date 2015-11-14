@@ -1,0 +1,7 @@
+MDN - https://developer.mozilla.org/pt-BR/
+
+http://babeljs.io/docs/learn-es2015/
+https://nodejs.org/api/index.html
+
+CommonJS -
+Emmet - http://emmet.io/
